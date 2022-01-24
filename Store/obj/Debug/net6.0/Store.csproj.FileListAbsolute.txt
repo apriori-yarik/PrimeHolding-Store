@@ -1,0 +1,15 @@
+D:\programming\prime-holding\Store\Store\bin\Debug\net6.0\Store.exe
+D:\programming\prime-holding\Store\Store\bin\Debug\net6.0\Store.deps.json
+D:\programming\prime-holding\Store\Store\bin\Debug\net6.0\Store.runtimeconfig.json
+D:\programming\prime-holding\Store\Store\bin\Debug\net6.0\Store.dll
+D:\programming\prime-holding\Store\Store\bin\Debug\net6.0\ref\Store.dll
+D:\programming\prime-holding\Store\Store\bin\Debug\net6.0\Store.pdb
+D:\programming\prime-holding\Store\Store\obj\Debug\net6.0\Store.csproj.AssemblyReference.cache
+D:\programming\prime-holding\Store\Store\obj\Debug\net6.0\Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\prime-holding\Store\Store\obj\Debug\net6.0\Store.AssemblyInfoInputs.cache
+D:\programming\prime-holding\Store\Store\obj\Debug\net6.0\Store.AssemblyInfo.cs
+D:\programming\prime-holding\Store\Store\obj\Debug\net6.0\Store.csproj.CoreCompileInputs.cache
+D:\programming\prime-holding\Store\Store\obj\Debug\net6.0\Store.dll
+D:\programming\prime-holding\Store\Store\obj\Debug\net6.0\ref\Store.dll
+D:\programming\prime-holding\Store\Store\obj\Debug\net6.0\Store.pdb
+D:\programming\prime-holding\Store\Store\obj\Debug\net6.0\Store.genruntimeconfig.cache

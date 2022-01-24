@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e2cc1b00-16dd-4e5f-9093-1c008623a50f": {
+      "ProjectGuid": "e2cc1b00-16dd-4e5f-9093-1c008623a50f",
+      "DisplayName": "Store",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
